@@ -9,4 +9,5 @@ public class Hospital {
     private String nombre;
     private int numeroCamas;
     private double presupuesto;
+    
 }

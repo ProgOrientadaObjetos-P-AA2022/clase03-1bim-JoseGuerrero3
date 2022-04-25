@@ -39,5 +39,9 @@ public class Hospital {
     public double obtenerPresupuesto(){
         return presupuesto;
     }
+
+    void establecernombreHospital(String nombreHospital) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
 }
